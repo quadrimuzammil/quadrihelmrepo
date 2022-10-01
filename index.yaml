@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-01T10:34:46.518132702Z"
+    description: A Helm chart for creating own application
+    digest: d71c7a598f4aea890017b27b87047d078c10eac84e6ec1e2b23fe50abdc01862
+    name: javawebapp
+    type: application
+    urls:
+    - https://quadrimuzammil.github.io/quadrihelmrepo/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-01T10:34:46.517415761Z"
